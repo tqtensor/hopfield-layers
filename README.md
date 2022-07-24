@@ -5,9 +5,9 @@ Michael Widrich<sup>1</sup>, Lukas Gruber<sup>1</sup>, Markus Holzleitner<sup>1<
 Geir Kjetil Sandve<sup>4</sup>, Victor Greiff<sup>3</sup>, David Kreil<sup>2</sup>, Michael Kopp<sup>2</sup>, Günter
 Klambauer<sup>1</sup>, Johannes Brandstetter<sup>1</sup>, Sepp Hochreiter<sup>1, 2</sup>_
 
-<sup>1</sup> ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning, Johannes Kepler University Linz, Austria  
-<sup>2</sup> Institute of Advanced Research in Artificial Intelligence (IARAI)  
-<sup>3</sup> Department of Immunology, University of Oslo, Norway  
+<sup>1</sup> ELLIS Unit Linz and LIT AI Lab, Institute for Machine Learning, Johannes Kepler University Linz, Austria
+<sup>2</sup> Institute of Advanced Research in Artificial Intelligence (IARAI)
+<sup>3</sup> Department of Immunology, University of Oslo, Norway
 <sup>4</sup> Department of Informatics, University of Oslo, Norway
 
 ---

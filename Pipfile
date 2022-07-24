@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = ">=1.20.0"
+torch = ">=1.5.0"
+
+[dev-packages]
+black = "*"
+build = "*"
+flake8 = "*"
+isort = "*"
+pipfile-sort = "*"
+pre-commit = "*"
+
+[requires]
+python_version = "3.9"
