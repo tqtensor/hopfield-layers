@@ -5,7 +5,7 @@ with open(r'README.md', mode=r'r') as readme_handle:
 
 setuptools.setup(
     name=r'hopfield-layers',
-    version=r'1.0.2',
+    version=r'1.0.3',
     author=r'Bernhard Schäfl',
     author_email=r'schaefl@ml.jku.at',
     url=r'https://github.com/ml-jku/hopfield-layers',
@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type=r'text/markdown',
     packages=setuptools.find_packages(),
-    python_requires=r'>=3.8.0',
+    python_requires=r'>=3.7.0',
     install_requires=[
         r'torch>=1.5.0',
         r'numpy>=1.20.0'
